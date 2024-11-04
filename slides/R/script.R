@@ -16,6 +16,8 @@ subset_flights |>
   write_csv("Flight Subset 2013.csv")
 file.copy("Flight Subset 2013.csv", here("data", "nycflights13_random2000.csv"))
 
+browser() #learn how to use browser
+
 # Reload subset ####
 some_flights_raw <- read_csv(here("data", "nycflights13_random2000.csv"))
 
