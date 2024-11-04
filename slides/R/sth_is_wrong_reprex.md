@@ -1,5 +1,6 @@
 ``` r
 library(nycflights13)
+#> Warning: package 'nycflights13' was built under R version 4.3.2
 df <- head(flights)
 for (i in 1:length(df$dep_delay)) {
   if (is.na(df$dep_delay[[i]])) {
@@ -16,4 +17,4 @@ for (i in 1:length(df$dep_delay)) {
 delay_categories <- c("Early", "Kind of on time", "Late")
 ```
 
-<sup>Created on 2024-09-17 with [reprex v2.1.0](https://reprex.tidyverse.org)</sup>
+<sup>Created on 2024-11-04 with [reprex v2.1.0](https://reprex.tidyverse.org)</sup>

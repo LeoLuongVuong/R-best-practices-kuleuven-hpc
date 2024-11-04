@@ -1,0 +1,191 @@
+[33mcommit a7982f83bdc66332d5ed637f5e063693ebdcb164[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 8c50c2d d596c45
+Author: My-Luong Vuong <myluongvuong@kuleuven.be>
+Date:   Mon Nov 4 14:29:38 2024 +0100
+
+    Merge branch 'main' of https://github.com/LeoLuongVuong/R-best-practices-kuleuven-hpc
+
+[33mcommit d596c459a83fef63fc51868186b7523774020d50[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: LeoLuongVuong <myluong.vuong@kuleuven.be>
+Date:   Mon Nov 4 14:27:59 2024 +0100
+
+    minor update too
+
+[33mcommit 8c50c2d25e090498943f226a2f9864a2ac1f3dba[m
+Author: My-Luong Vuong <myluongvuong@kuleuven.be>
+Date:   Mon Nov 4 14:27:24 2024 +0100
+
+    minor update
+
+[33mcommit 3ff6d971588d5d3e91f711d297937bb9722fb2a3[m
+Author: LeoLuongVuong <myluong.vuong@kuleuven.be>
+Date:   Mon Nov 4 14:04:11 2024 +0100
+
+    added some useful notes to the course slide
+
+[33mcommit fdd61cf8d30ed4056f6d8ea44f8adbd8e41b7ae6[m
+Author: LeoLuongVuong <myluong.vuong@kuleuven.be>
+Date:   Mon Nov 4 10:55:46 2024 +0100
+
+    removed file not compatible to word. learned how to use broswer for debugging. and source()
+
+[33mcommit 13929c4168690e2403cc6b69adca0ebb5f3a2bfc[m
+Author: LeoLuongVuong <myluong.vuong@kuleuven.be>
+Date:   Mon Nov 4 09:43:55 2024 +0100
+
+    minor push
+
+[33mcommit 567755a200c3a011981f33283d850c9b3eae6454[m
+Merge: 7905544 973cbd1
+Author: Mariana Montes <54317904+montesmariana@users.noreply.github.com>
+Date:   Tue Sep 24 11:09:25 2024 +0200
+
+    Merge pull request #1 from hpcleuven/feature/ssh-instructions
+    
+    add instructions to connect to SSH
+
+[33mcommit 973cbd16307bcc2584651f6131ffbab598816d0b[m
+Author: Mariana <mariana.montes@kuleuven.be>
+Date:   Tue Sep 17 10:48:59 2024 +0200
+
+    add instructions to connect to SSH
+
+[33mcommit 7905544f67ee8ef56fdc27a743f73b0753444e2f[m
+Author: Mariana Montes <mariana.montes@kuleuven.be>
+Date:   Fri Jul 5 09:35:43 2024 +0200
+
+    finish up README
+
+[33mcommit 7055f7c33b0c177257e0b90cdbf3f394a82a1923[m
+Author: Mariana Montes <mariana.montes@kuleuven.be>
+Date:   Fri Jul 5 09:34:08 2024 +0200
+
+    rename and add links between repo and website
+
+[33mcommit 840675eb3dd4b4ead1b5056bb5ed90d58ff82cfe[m
+Author: Mariana Montes <mariana.montes@kuleuven.be>
+Date:   Thu Jul 4 14:10:32 2024 +0200
+
+    fix url for iframe
+
+[33mcommit b382caaf2b17f22c772adcbd7ebd7001c05367ef[m
+Author: Mariana Montes <mariana.montes@kuleuven.be>
+Date:   Thu Jul 4 14:03:24 2024 +0200
+
+    set up website
+
+[33mcommit e6ff9df64bfd7fc1f52d45b05b9d6269d81739ad[m
+Author: Mariana Montes <mariana.montes@kuleuven.be>
+Date:   Tue Jun 25 14:52:32 2024 +0200
+
+    add exercises
+
+[33mcommit 46c407f8162c6e1d42388913847ca7ce21636eb4[m
+Author: Mariana Montes <mariana.montes@kuleuven.be>
+Date:   Tue Jun 25 14:52:14 2024 +0200
+
+    update README
+
+[33mcommit 094f501597357f74666b1e6777cf135da677c39c[m
+Author: Mariana Montes <mariana.montes@kuleuven.be>
+Date:   Tue Jun 25 14:46:15 2024 +0200
+
+    update slides
+
+[33mcommit 3ddbf09c448ff95b091a395bdc71683705300612[m
+Author: Mariana Montes <mariana.montes@kuleuven.be>
+Date:   Mon Jun 24 10:01:56 2024 +0200
+
+    add debugging and exercises
+
+[33mcommit e9ef892123dc3ec8daf3f81da2bffe895b3aa5dd[m
+Author: Mariana Montes <mariana.montes@kuleuven.be>
+Date:   Mon May 13 13:47:20 2024 +0200
+
+    review slides
+
+[33mcommit fc51214de8eadf509f2bbd8b916b2d69107c323e[m
+Author: Mariana Montes <mariana.montes@kuleuven.be>
+Date:   Tue Apr 2 17:31:56 2024 +0200
+
+    update slides
+
+[33mcommit c47059b0a75e131f167e222599faccd10dfe5574[m
+Author: Mariana Montes <mariana.montes@kuleuven.be>
+Date:   Fri Mar 29 16:30:47 2024 +0100
+
+    edit slides
+
+[33mcommit 0123da5388ae47982ba109e8635d4d1ebd0e5ecf[m
+Author: Mariana Montes <mariana.montes@kuleuven.be>
+Date:   Fri Mar 29 16:30:37 2024 +0100
+
+    track .Rprofile for renv
+
+[33mcommit 549614bbfa51eced52ef00e264e44eecfcb1b659[m
+Author: Mariana Montes <mariana.montes@kuleuven.be>
+Date:   Fri Mar 29 16:30:10 2024 +0100
+
+    reorganize files
+
+[33mcommit 71c09bb6ee8402e1625e7658b961b43604f08deb[m
+Author: Mariana Montes <mariana.montes@kuleuven.be>
+Date:   Mon Mar 25 16:40:05 2024 +0100
+
+    update renv
+
+[33mcommit 9273873a9ed497af38bee7baaf60ef9939c53002[m
+Author: Mariana Montes <mariana.montes@kuleuven.be>
+Date:   Mon Mar 25 16:39:56 2024 +0100
+
+    add vsc styling
+
+[33mcommit 29b982c7fc37b42d70613953ea7e93e04ad9d1b3[m
+Author: Mariana Montes <mariana.montes@kuleuven.be>
+Date:   Thu Mar 14 13:36:56 2024 +0100
+
+    update slides
+
+[33mcommit cc9368ccb3692eec66df059e05ae94211f7d3c61[m
+Author: Mariana Montes <mariana.montes@kuleuven.be>
+Date:   Thu Mar 14 13:36:42 2024 +0100
+
+    update renv
+
+[33mcommit bc4d533765941535ab93f610656533533229a4e2[m
+Author: Mariana Montes <mariana.montes@kuleuven.be>
+Date:   Mon Mar 11 13:39:27 2024 +0100
+
+    start slides
+
+[33mcommit 1d066b6519c2d2f867539fa1cb6f60ee306c7e16[m
+Author: Mariana Montes <mariana.montes@kuleuven.be>
+Date:   Mon Mar 11 13:39:09 2024 +0100
+
+    init renv
+
+[33mcommit 5d10a2210ce2af0665380220a4f78e0fadcc6afe[m
+Author: Mariana Montes <mariana.montes@kuleuven.be>
+Date:   Mon Mar 11 13:38:53 2024 +0100
+
+    create R project
+
+[33mcommit 47f8490987121ae8ebe37909caaa4a7368c4f558[m
+Author: Ehsan Moravveji <e.moravveji@gmail.com>
+Date:   Tue Feb 13 15:17:21 2024 +0100
+
+    Update README.md
+    
+    adding minutes of the meeting on 13/2 to the list of ideas
+
+[33mcommit 20bf06de8c10c134c835d8e5b197b739f8eb673b[m
+Author: Mariana <mariana.montes@kuleuven.be>
+Date:   Thu Jan 25 14:17:46 2024 +0100
+
+    add resources
+
+[33mcommit 02d2e3d56f29fdd87755e3be57f7a51b6fc22f9b[m
+Author: Ehsan Moravveji <ehsan.moravveji@kuleuven.be>
+Date:   Tue Jan 16 15:54:42 2024 +0100
+
+    adding readme

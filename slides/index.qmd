@@ -3,6 +3,7 @@ title: "R Best Practices"
 format:
   revealjs:
     theme: [default, ../vsc.scss]
+    # vsc.scss is very useful! It dictates which style the presentation will adopt.
 title-slide-attributes: 
   data-background-image: img/vsc-title-bg.png
   data-background-size: contain
