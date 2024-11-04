@@ -379,7 +379,7 @@ df$month_name = month.name[df$month]
 ```{r}
 #| eval: false
 library(here)
-i_am("index.qmd")
+i_am("index.qmd") # i_am tells you: "here() starts at /vsc-hard-mounts/leuven-data/357/vsc35700/R-best-practices-kuleuven-hpc"
 
 some_flights<-read.csv(here( 'data' , "nycflights13_random2000.csv"))
 some_flights$month_name = month.name[some_flights$month]
@@ -559,6 +559,7 @@ to discuss, but I have hidden it.
 ::: callout-tip
 
 You may use `Ctrl/⌘+F` in R Studio to replace all the calls: How many times has the dataframe been called?
+# Ctrl + shift + F: look for a certain word in the entire project!
 
 Use the automatic linting of R Studio to fix indentation!
 
@@ -833,6 +834,7 @@ some_flights |>
     ) |> as.factor(),
     .names = "{.col}_cat"
   )
+  # this syntax is powerful. Does a lot of things very concisely!
 ```
 
 ## Multiple columns at once {auto-animate=true}
@@ -970,6 +972,9 @@ col1,col2,col3
 ::: {.column}
 
 Values separated by semicolons (`readr::read_csv2()`)
+
+# this slide is useful! comma, semicolon, tab, ... sepearted files
+# the most transparent and interoperable way of sharing tabular data. These files can all be opened by a plain text editor.
 
 ```
 col1;col2;col3
